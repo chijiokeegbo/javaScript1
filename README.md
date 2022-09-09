@@ -1,2 +1,2 @@
 # javaScript1
-for vanilla javascript projects
+using vanilla javascript for image slider projects
